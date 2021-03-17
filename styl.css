@@ -15,9 +15,17 @@ table{
 }
 .feher{
     background-color: white;
+    text-align: left;
 }
 #mozgas{
     position: absolute;
-    top: 50px;
-    left: 750px;
+    top: 350px;
+    left: 520px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 0 5px 0;
+}
+#koz{
+    left: 170px;
+    position: absolute;
 }
