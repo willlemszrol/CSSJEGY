@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(224, 224, 224);
+}
+p{
+    color: black;
+}
+table{
+    width: 650px;
+    background-color: rgb(92, 107, 123);
+    border: 2px solid black;
+}
+.vil{
+    background-color:  rgb(205, 219, 235) ;
+}
